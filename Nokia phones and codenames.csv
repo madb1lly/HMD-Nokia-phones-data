@@ -1,15 +1,16 @@
 Name,Number,Code TLA,Codename,Pre-release codename,Manufacturer,FCC,Canada,TENAA,CCC,EEC,Bluetooth,Wifi
-Nokia ?,TA-x,EAG,Eagles,,,,,,,,,
 Nokia ?,TA-x,LMS,,,,,,,,,,
-Nokia 3V,TA-x,,,,,,,,,,,
+Nokia 3V?,TA-x,,,,,,,,,,,
 Nokia 6.2,TA-x,,,,,,,,,,,
-Nokia 2.2,TA-1191 (was 1188) single SIM,WAS,Wasp,,Huaqin,https://fccid.io/2AJOTTA-1191,,,,,,
+Nokia ?,TA-1201,,,,,,,,,,,
+Nokia ?,TA-1193,,,,,,,,,,,
+Nokia 2.2,TA-1191 (was 1188) single SIM,WAS / WSP,Wasp,,Huaqin,https://fccid.io/2AJOTTA-1191,,,,,,
 Nokia ?,TA-1190,,,,,https://fccid.io/2AJOTTA-1190,,,,,,
-Nokia 2.2 (EEC?),TA-1188,WAS,Wasp,,Huaqin,https://fccid.io/2AJOTTA-1188,,,,https://fccid.io/EEC/RU0000041828,,
-Nokia ?,TA-1184,WAS,Wasp,,Huaqin,https://fccid.io/2AJOTTA-1184,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=18&execution=e1s2&_eventId=showEquipmentDetails,,,,,
-Nokia 2.2 India,TA-1183,WAS,Wasp,,Huaqin,https://fccid.io/2AJOTTA-1184,,,,,,
-Nokia 3.2 (Verizon?),TA-1182,,,,,https://fccid.io/2AJOTTA-1182,,,,,https://launchstudio.bluetooth.com/ListingDetails/84915,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA83219
-Nokia 2.2,TA-1179 (was 1184) single SIM,WAS,Wasp,,Huaqin,https://fccid.io/2AJOTTA-1179,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?execution=e1s3&index=17,,,,,
+Nokia 2.2 (EEC?),TA-1188,WAS / WSP,Wasp,,Huaqin,https://fccid.io/2AJOTTA-1188,,,,https://fccid.io/EEC/RU0000041828,,
+Nokia ?,TA-1184,WAS / WSP,Wasp,,Huaqin,https://fccid.io/2AJOTTA-1184,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=18&execution=e1s2&_eventId=showEquipmentDetails,,,,,
+Nokia 2.2 India,TA-1183,WAS / WSP,Wasp,,Huaqin,https://fccid.io/2AJOTTA-1184,,,,,,
+Nokia ?,TA-1182,,,,,https://fccid.io/2AJOTTA-1182,,,,,https://launchstudio.bluetooth.com/ListingDetails/84915,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA83219
+Nokia 2.2,TA-1179 (was 1184) single SIM,WAS / WSP,Wasp,,Huaqin,https://fccid.io/2AJOTTA-1179,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?execution=e1s3&index=17,,,,,
 Nokia ? (4G feature phone?),TA-1177,,,,,,,,,,,
 Nokia ? (feature phone),TA-1174,,,,,,,,,https://fccid.io/EEC/RU0000042813,,
 Nokia X71 (China),TA-1172,TAS,Taisun / Taishan,,,,,,,,https://launchstudio.bluetooth.com/ListingDetails/80884,
@@ -20,13 +21,13 @@ Nokia 3.2,TA-1159,DPL,,,Wingtech? / TSMT? (India),https://fccid.io/2AJOTTA-1159,
 Nokia 4.2,TA-1157,PAN,,,Wingtech? / TSMT? (India),https://fccid.io/2AJOTTA-1157,,,,NPU,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA81864
 Nokia 3.2,TA-1156,DPL,,,Wingtech? / TSMT? (India),,,,,NPU,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82296
 Nokia 3.2,TA-1154,DPL,,,Wingtech? / TSMT? (India),,,,,NPU,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82540
-Nokia 3.2 (Verizon?),TA-1153,,,,,https://fccid.io/2AJOTTA-1182,,,,,https://launchstudio.bluetooth.com/ListingDetails/84915,
+Nokia ?,TA-1153,,,,,https://fccid.io/2AJOTTA-1182,,,,,https://launchstudio.bluetooth.com/ListingDetails/84915,
 Nokia 4.2,TA-1152,PAN,,,Wingtech? / TSMT? (India),,,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82278
 Nokia 4.2,TA-1150,PAN,,,Wingtech? / TSMT? (India),https://fccid.io/2AJOTTA-1150,,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82275
 Nokia 4.2,TA-1149,PAN,,,Wingtech? / TSMT? (India),,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=16&execution=e1s2&_eventId=showEquipmentDetails,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82277
 Nokia ?,TA-1146,,,,,,,,,,,
-Nokia ?,TA-1141,,,,,https://fccid.io/2AJOTTA1140,,,,,,
-Nokia ?,TA-1140,,,,,https://fccid.io/2AJOTTA1140,,,,,https://launchstudio.bluetooth.com/ListingDetails/77585,
+Nokia 3.1C,TA-1141,EAG,Eagles,,,https://fccid.io/2AJOTTA1140,,,,,,
+Nokia 3.1A,TA-1140,EAG,Eagles,,,https://fccid.io/2AJOTTA1140,,,,,https://launchstudio.bluetooth.com/ListingDetails/77585,
 Nokia 210,TA-1139,,,,,,,http://www.tenaa.com.cn/WSFW/LicenceShow.aspx?code=bEvDcyxjmgSZJFNZfyf%2bLIcCBjNDQiBUEwjhYq77%2bDqyWxVlq9y7YLD5PlaHZaQK,,NPU,,
 Nokia 2V,TA-1136,EVW,,,,https://fccid.io/2AJOTTA-1136,,,,,https://launchstudio.bluetooth.com/ListingDetails/71526,
 Nokia 4.2,TA-1133,PAN,,,Wingtech? / TSMT? (India),,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=14&execution=e1s2&_eventId=showEquipmentDetails,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82276
