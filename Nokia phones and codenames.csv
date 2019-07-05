@@ -1,8 +1,10 @@
 Name,Number,Code TLA,Codename,Pre-release codename,Manufacturer,FCC,Canada,TENAA,CCC,EEC,Bluetooth,Wifi
 Nokia ?,TA-x,LMS,,,,,,,,,,
+Nokia ?,TA-x,,Star-Lord,,,,,,,,,
 Nokia 3V?,TA-x,,,,,,,,,,,
 Nokia 6.2,TA-x,,,,,,,,,,,
-Nokia ?,TA-1201,,,,,,,,,,,
+Nokia ?,TA-1201,,Daredevil,,,,,,,,,
+Nokia ?,TA-1198,,,,,,,,,,,
 Nokia ?,TA-1193,,,,,,,,,,,
 Nokia 2.2,TA-1191 (was 1188) single SIM,WAS / WSP,Wasp,,Huaqin,https://fccid.io/2AJOTTA-1191,,,,,,
 Nokia ?,TA-1190,,,,,https://fccid.io/2AJOTTA-1190,,,,,,
