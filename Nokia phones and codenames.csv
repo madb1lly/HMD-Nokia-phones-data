@@ -1,5 +1,4 @@
 Name,Number,Code TLA,Codename,Pre-release codename,Manufacturer,FCC,TENAA,Canada,EEC,Bluetooth,Wifi
-Nokia?,TA-x,SUN,,,,,,,,,
 Nokia?,TA-x,LMS,,,,,,,,,
 Nokia ? (India),TA-1209,,,,,,,,,,
 Nokia ? (India),TA-1208,,,,,,,,,,
@@ -19,7 +18,7 @@ Nokia 6.2,TA-1187,SLD,Star-lord?,,,https://fccid.io/2AJOTTA-1187,,,,,
 Nokia 800 Tough EEC,TA-1186,,Coconut?,,,,,,,,
 Nokia 2.2,TA-1184,WAS / WSP,Wasp,,Huaqin,https://fccid.io/2AJOTTA-1184,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=18&execution=e1s2&_eventId=showEquipmentDetails,,,
 Nokia 2.2 India,TA-1183,WAS / WSP,Wasp,,Huaqin / Rising Stars (Foxconn),https://fccid.io/2AJOTTA-1184,,,,,
-Nokia 3V?,TA-1182,,,,WingTech,https://fccid.io/2AJOTTA-1182,,,,https://launchstudio.bluetooth.com/ListingDetails/84915,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA83219
+Nokia 3V?,TA-1182,DPL_VZW,,,WingTech,https://fccid.io/2AJOTTA-1182,,,,https://launchstudio.bluetooth.com/ListingDetails/84915,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA83219
 Nokia 7.2,TA-1181,DDV,Daredevil,,Longcheer,https://fccid.io/2AJOTTA-1181,,,,,
 Nokia 800 Tough,TA-1180,,Coconut?,,,,,,,,
 Nokia 2.2 single-SIM,TA-1179 ,WAS / WSP,Wasp,,Huaqin,https://fccid.io/2AJOTTA-1179,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?execution=e1s3&index=17,,,
