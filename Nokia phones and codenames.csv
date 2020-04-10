@@ -1,181 +1,181 @@
 Name,Number,Code TLA,Codename,Pre-release codename,Manufacturer,FCC,TENAA,Canada,EEC,Bluetooth,Wifi
-Nokia ?,,ML2,,,,,,,,,
-Nokia ?,,DVW,,,,,,,,,
-Nokia ?,,,,,,,,,,https://launchstudio.bluetooth.com/ListingDetails/101622,
-Nokia 2.3 Dual-SIM,TA-x,IRM,Iron Man,,,,,,,,
-Nokia ?,TA-x,LMS,,,,,,,,,
-Nokia 150 2019? (China),TA-1242,,,,,,http://shouji.tenaa.com.cn/mobile/MobileDetail.aspx?code=g61T3CysTlSvI%2bQgKH174UOKZ1jaN6%2f3,,,,
-Nokia 5.3 EEC?,TA-1234,,Captain America,,,,,https://launchstudio.bluetooth.com/ListingDetails/100323,https://fccid.io/EEC/RU0000045272,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA94272
-Nokia C2,TA-1233,NBL,Nebula,,,,,,,https://launchstudio.bluetooth.com/ListingDetails/100719,
-Nokia 5310,TA-1230,,,,,,,,,,
-Nokia 5.3,TA-1229,,Captain America,,,,,,,https://launchstudio.bluetooth.com/ListingDetails/100323,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA96594
-Nokia 5.3,TA-1227,,Captain America,,,,,,,https://launchstudio.bluetooth.com/ListingDetails/100323,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA96596
-Nokia 5.3,TA-1223,,Captain America,,,,,,,https://launchstudio.bluetooth.com/ListingDetails/100323,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA96592
-Nokia 1.3 Single-SIM,TA-1216,DRX,,,,https://fccid.io/2AJOTTA-1216,,,,https://launchstudio.bluetooth.com/ListingDetails/101622,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA94662
-Nokia 2.3 Dual-SIM,TA-1214,IRM,Iron Man,,,https://fccid.io/2AJOTTA-1214,,,,https://launchstudio.bluetooth.com/ListingDetails/97181,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA92201
-Nokia Original?,TA-1213,,,,,,,,,https://launchstudio.bluetooth.com/ListingDetails/96078,
-Nokia 5310 EEC?,TA-1212,,,,,,http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=g61T3CysTlSvI%2bQgKH174QJzWtglPEAeL47s8za2vsnMStjKs4s7aA%3d%3d,,https://fccid.io/EEC/RU0000045271,,
-Nokia 2.3,TA-1211,IRM,Iron Man,,,https://fccid.io/2AJOTTA-1211,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA92200
-Nokia 2.3 (India),TA-1209,IRM,Iron Man,,,,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA92202
-Nokia 400 4G? UniSoC+GAFP? (India),TA-1208,,,,,,,,,https://launchstudio.bluetooth.com/ListingDetails/90065,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA92200
-Nokia 1.3,TA-1207,DRX,,,,https://fccid.io/2AJOTTA-1207,,,,https://launchstudio.bluetooth.com/ListingDetails/101622,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA94663
-Nokia 2.3 Single-SIM EEC? or Dual?,TA-1206,IRM,Iron Man,,,https://fccid.io/2AJOTTA-1206,,,https://fccid.io/EEC/RU0000043607,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA92040
+Nokia 1 (Dual SIM),TA-1047,FRT,Frontier,,,,,,,,
+Nokia 1 (Dual SIM),TA-1056,FRT,Frontier,,,,,,,,
+Nokia 1 (Dual SIM),TA-1066,FRT,Frontier,,,,,,,,
+Nokia 1 (Single SIM),TA-1060,FRT,Frontier,,,,,,,,
+Nokia 1 (Single SIM),TA-1079,FRT,Frontier,,,,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=7&execution=e1s2&_eventId=showEquipmentDetails,,,
+Nokia 1 plus (EU - Dual SIM - 8GB),TA-1130,ANT,Antman / Trochilus,,,https://fccid.io/2AJOTTA-1123,,,NPU,,
+Nokia 1 plus (LTA - Dual SIM - 16GB),TA-1123,ANT,Antman / Trochilus,,,https://fccid.io/2AJOTTA-1123,,,,,
+Nokia 1 plus (LTA - Single SIM - 16GB),TA-1127,ANT,Antman / Trochilus,,,https://fccid.io/2AJOTTA-1127,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=12&execution=e1s2&_eventId=showEquipmentDetails,,,
+Nokia 1 plus EU - Single SIM - 8GB),TA-1111,ANT,Antman / Trochilus,,,https://fccid.io/2AJOTTA-1111,,,,,
 Nokia 1.3 EEC? Dual-SIM,TA-1205,DRX,,,,https://fccid.io/2AJOTTA-1205,,,https://fccid.io/EEC/RU0000045270,https://launchstudio.bluetooth.com/ListingDetails/101622,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA94384
-Nokia C2,TA-1204,,,,,,,,,https://launchstudio.bluetooth.com/ListingDetails/100719,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA94069
-Nokia feature phone EEC/India?,TA-1203,,,,,,https://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=g61T3CysTlSvI%2bQgKH174VAGOM5bycQDpHtyVeLhhWHVEB7Qkijl5A%3d%3d,,,,
-Nokia 6.2 India,TA-1201,SLD,Star-lord?,,Longcheer?,,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90462
-Nokia 6.2,TA-1200,SLD,Star-lord?,,Longcheer?,,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90460
-Nokia 6.2 EEC,TA-1198,SLD,Star-lord?,,,,,,https://fccid.io/EEC/RU0000043605,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90458
-Nokia 7.2 Dual-SIM,TA-1196,DDV,Daredevil,,Longcheer?,https://fccid.io/2AJOTTA-1196,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90456
-Nokia 2.3 ?-SIM,TA-1194,IRM,Iron Man,,,,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA94362
-Nokia 7.2 India,TA-1193,DDV,Daredevil,,Longcheer / DBG Technology India,,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90454
-Nokia 110 EEC,TA-1192,NKL,,,,,http://www.tenaa.com.cn/WSFW/LicenceShow.aspx?code=zE1dXVAIaKbqW8Dm8yGNhAwO2jLMCGvj%2fDfTiUP2Ca%2bkatLHuevQ9thiNFG9zrfI,,,,
-Nokia 2.2 single-SIM,TA-1191,WAS / WSP,Wasp,,Huaqin,https://fccid.io/2AJOTTA-1191,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA89689
-Nokia feature phone LATAM - looks like TA-1192,TA-1190,,Nemo?,,,https://fccid.io/2AJOTTA-1190,,,,,
-Nokia 800 Tough China,TA-1189,,Coconut?,,,,http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=g61T3CysTlSvI%2bQgKH174YVCzmADFTgX2N90jE1lG%2f87jD9Kx%2fn5Ig%3d%3d,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91192
-Nokia 2.2 (EEC?),TA-1188,WAS / WSP,Wasp,,Huaqin,https://fccid.io/2AJOTTA-1188,,,https://fccid.io/EEC/RU0000041828,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA83806
-Nokia 6.2,TA-1187,SLD,Star-lord?,,,https://fccid.io/2AJOTTA-1187,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90452
-Nokia 800 Tough EEC,TA-1186,,Coconut?,,,,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91342
-Nokia 2.2,TA-1184,WAS / WSP,Wasp,,Huaqin,https://fccid.io/2AJOTTA-1184,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=18&execution=e1s2&_eventId=showEquipmentDetails,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA89636
-Nokia 2.2 India,TA-1183,WAS / WSP,Wasp,,Huaqin / Rising Stars (Foxconn),https://fccid.io/2AJOTTA-1184,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA89693
-Nokia 3V?,TA-1182,DPL_VZW,,,WingTech,https://fccid.io/2AJOTTA-1182,,,,https://launchstudio.bluetooth.com/ListingDetails/84915,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA83219
-Nokia 7.2,TA-1181,DDV,Daredevil,,Longcheer,https://fccid.io/2AJOTTA-1181,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90450
-Nokia 800 Tough,TA-1180,,Coconut?,,,,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91341
-Nokia 2.2 single-SIM,TA-1179 ,WAS / WSP,Wasp,,Huaqin,https://fccid.io/2AJOTTA-1179,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?execution=e1s3&index=17,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA89691
-Nokia 7.2 Single-SIM,TA-1178,DDV,Daredevil,,Longcheer?,https://fccid.io/2AJOTTA-1178,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90187
-Nokia ? (4G feature phone?) China?,TA-1177,,,,,,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90125
-Nokia 800 Tough,TA-1176,,Coconut?,,,,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91340
-Nokia 2720 EEC,TA-1175,BTS,Beatles,,,https://fccid.io/2AJOTTA-1175,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91236
+Nokia 1.3 Single-SIM,TA-1216,DRX,,,,https://fccid.io/2AJOTTA-1216,,,,https://launchstudio.bluetooth.com/ListingDetails/101622,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA94662
+Nokia 1.3,TA-1207,DRX,,,,https://fccid.io/2AJOTTA-1207,,,,https://launchstudio.bluetooth.com/ListingDetails/101622,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA94663
+Nokia 105 (Dual SIM),TA-1034,,,,,,,,,,
 Nokia 105 2019,TA-1174,,,,,,,,https://fccid.io/EEC/RU0000042813,,
-Nokia 2720,TA-1173,BTS,Beatles,,,https://fccid.io/2AJOTTA-1173,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91235
-Nokia X71 (China),TA-1172,TAS,Taisun / Taishan,,,,,,,https://launchstudio.bluetooth.com/ListingDetails/80884,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82562
+Nokia 105,TA-1010,,,,,,,,,,
+Nokia 105,TA-1037,,,,,,,,,,
+Nokia 106,TA-1114,,,,,,,,,,
+Nokia 110 EEC,TA-1192,NKL,,,,,http://www.tenaa.com.cn/WSFW/LicenceShow.aspx?code=zE1dXVAIaKbqW8Dm8yGNhAwO2jLMCGvj%2fDfTiUP2Ca%2bkatLHuevQ9thiNFG9zrfI,,,,
+Nokia 130 (Dual SIM),TA-1017,,,,,,,,,,
+Nokia 130,TA-1019,,,,,,,,,,
+Nokia 130,TA-1035,,,,,,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=4&execution=e1s2&_eventId=showEquipmentDetails,,,
+Nokia 150 2019? (China),TA-1242,,,,,,http://shouji.tenaa.com.cn/mobile/MobileDetail.aspx?code=g61T3CysTlSvI%2bQgKH174UOKZ1jaN6%2f3,,,,
+Nokia 2 (Dual SIM),TA-1011,E1M,Dynamo,,,,,,,,
+Nokia 2 (Dual SIM),TA-1029,E1M,Dynamo,,,,,,,,
+Nokia 2,TA-1007,E1M,Dynamo,,,,,,,,
+Nokia 2,TA-1023,E1M,Dynamo,,,,,,,,
+Nokia 2.1 (Dual SIM),TA-1080,E2M,Dynamo2,,,,,,,,
+Nokia 2.1 (Dual SIM),TA-1084,E2M,Dynamo2,,,,,,,,
+Nokia 2.1 (Dual SIM),TA-1092,E2M,Dynamo2,,,,,,,,
+Nokia 2.1,TA-1086,E2M,Dynamo2,,,,,,,,
+Nokia 2.1,TA-1093,E2M,Dynamo2,,,,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=9&execution=e1s2&_eventId=showEquipmentDetails,,,
+Nokia 2.2 (EEC?),TA-1188,WAS / WSP,Wasp,,Huaqin,https://fccid.io/2AJOTTA-1188,,,https://fccid.io/EEC/RU0000041828,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA83806
+Nokia 2.2 India,TA-1183,WAS / WSP,Wasp,,Huaqin / Rising Stars (Foxconn),https://fccid.io/2AJOTTA-1184,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA89693
+Nokia 2.2 single-SIM,TA-1179 ,WAS / WSP,Wasp,,Huaqin,https://fccid.io/2AJOTTA-1179,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?execution=e1s3&index=17,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA89691
+Nokia 2.2 single-SIM,TA-1191,WAS / WSP,Wasp,,Huaqin,https://fccid.io/2AJOTTA-1191,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA89689
+Nokia 2.2,TA-1184,WAS / WSP,Wasp,,Huaqin,https://fccid.io/2AJOTTA-1184,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=18&execution=e1s2&_eventId=showEquipmentDetails,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA89636
+Nokia 2.3 (India),TA-1209,IRM,Iron Man,,,,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA92202
+Nokia 2.3 ?-SIM,TA-1194,IRM,Iron Man,,,,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA94362
+Nokia 2.3 Dual-SIM,TA-1214,IRM,Iron Man,,,https://fccid.io/2AJOTTA-1214,,,,https://launchstudio.bluetooth.com/ListingDetails/97181,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA92201
+Nokia 2.3 Dual-SIM,TA-x,IRM,Iron Man,,,,,,,,
+Nokia 2.3 Single-SIM EEC? or Dual?,TA-1206,IRM,Iron Man,,,https://fccid.io/2AJOTTA-1206,,,https://fccid.io/EEC/RU0000043607,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA92040
+Nokia 2.3,TA-1211,IRM,Iron Man,,,https://fccid.io/2AJOTTA-1211,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA92200
+Nokia 210,TA-1139,,,,,,http://www.tenaa.com.cn/WSFW/LicenceShow.aspx?code=bEvDcyxjmgSZJFNZfyf%2bLIcCBjNDQiBUEwjhYq77%2bDqyWxVlq9y7YLD5PlaHZaQK,,NPU,,
+Nokia 220 4G (US),TA-1155,,,,,https://fccid.io/2AJOTTA-1155,,,,,
+Nokia 220 4G,TA-1148,,,,,,,,,,
 Nokia 220 4G,TA-1171,,,,,https://fccid.io/2AJOTTA-1171,,,,,
 Nokia 2720 (China),TA-1170,BTS,Beatles,,,,http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=g61T3CysTlSvI%2bQgKH174dFDgRiWUDXkkWutdRx0GZAgE8OrFzKf9w%3d%3d,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90216
+Nokia 2720 EEC,TA-1175,BTS,Beatles,,,https://fccid.io/2AJOTTA-1175,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91236
 Nokia 2720,TA-1168,BTS,Beatles,,,,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91234
-Nokia X71 (Taiwan),TA-1167,TAS,Taisun / Taishan,,,,,,,https://launchstudio.bluetooth.com/ListingDetails/80884,
-Nokia C1 (UniSoc),TA-1165,RKU,Rocket,,,,,,,https://launchstudio.bluetooth.com/ListingDetails/98399,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA92338
-Nokia 3.2,TA-1164,DPL,Deadpool,,Wingtech? / TSMT? (India),,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82539
-Nokia 3.2,TA-1161,DPL,Deadpool,,Wingtech? / TSMT? (India),,,,NPU,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82541
-Nokia 3.2,TA-1159,DPL,Deadpool,,Wingtech? / TSMT? (India),https://fccid.io/2AJOTTA-1159,,,NPU,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82538
-Nokia 4.2,TA-1157,PAN,,,Wingtech? / TSMT? (India),https://fccid.io/2AJOTTA-1157,,,NPU,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA81864
-Nokia 3.2,TA-1156,DPL,Deadpool,,Wingtech? / TSMT? (India),,,,NPU,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82296
-Nokia 220 4G (US),TA-1155,,,,,https://fccid.io/2AJOTTA-1155,,,,,
-Nokia 3.2,TA-1154,DPL,Deadpool,,Wingtech? / TSMT? (India),,,,NPU,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82540
-Nokia 3V?,TA-1153,,,,WingTech,https://fccid.io/2AJOTTA-1182,,,,https://launchstudio.bluetooth.com/ListingDetails/84915,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA83679
-Nokia 4.2,TA-1152,PAN,,,Wingtech? / TSMT? (India),,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82278
-Nokia 4.2,TA-1150,PAN,,,Wingtech? / TSMT? (India),https://fccid.io/2AJOTTA-1150,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82275
-Nokia 4.2,TA-1149,PAN,,,Wingtech? / TSMT? (India),,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=16&execution=e1s2&_eventId=showEquipmentDetails,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82277
-Nokia 220 4G,TA-1148,,,,,,,,,,
-Nokia China?,TA-1146,,,,,,,,,,
-Nokia 3.1C,TA-1141,EAG,Eagles,,,https://fccid.io/2AJOTTA1140,,,,,
-Nokia 3.1A,TA-1140,EAG,Eagles,,,https://fccid.io/2AJOTTA1140,,,,https://launchstudio.bluetooth.com/ListingDetails/77585,
-Nokia 210,TA-1139,,,,,,http://www.tenaa.com.cn/WSFW/LicenceShow.aspx?code=bEvDcyxjmgSZJFNZfyf%2bLIcCBjNDQiBUEwjhYq77%2bDqyWxVlq9y7YLD5PlaHZaQK,,NPU,,
+Nokia 2720,TA-1173,BTS,Beatles,,,https://fccid.io/2AJOTTA-1173,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91235
 Nokia 2V,TA-1136,EVW,,,,https://fccid.io/2AJOTTA-1136,,,,https://launchstudio.bluetooth.com/ListingDetails/71526,
-Nokia 4.2,TA-1133,PAN,,,Wingtech? / TSMT? (India),,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=14&execution=e1s2&_eventId=showEquipmentDetails,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82276
-Nokia China?,TA-1132,,,,,,,,,,
-Nokia X7,TA-1131,PNX,Phoenix,Parrot,,,,,,https://launchstudio.bluetooth.com/ListingDetails/66295,
-Nokia 1 plus (EU - Dual SIM - 8GB),TA-1130,ANT,Antman / Trochilus,,,https://fccid.io/2AJOTTA-1123,,,NPU,,
-Nokia 8.1 (Dual SIM),TA-1128,PNX,Phoenix,Parrot,,,,,,,
-Nokia 1 plus (LTA - Single SIM - 16GB),TA-1127,ANT,Antman / Trochilus,,,https://fccid.io/2AJOTTA-1127,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=12&execution=e1s2&_eventId=showEquipmentDetails,,,
-Nokia 3.1 Plus,TA-1125,ROO / ROON?,Rooster,,,,,,,,
-Nokia 3.1 Plus (Cricket),TA-1124,RHD,,,,,,,,,
-Nokia 1 plus (LTA - Dual SIM - 16GB),TA-1123,ANT,Antman / Trochilus,,,https://fccid.io/2AJOTTA-1123,,,,,
-Nokia 8.1 (Dual SIM) (India?),TA-1121,PNX,Phoenix,Parrot,,,,,,https://launchstudio.bluetooth.com/ListingDetails/66295,
-Nokia 5.1 Plus (Nokia X5),TA-1120,PDA / ND1?,Panda / Bravo?,,,,,,,,
-Nokia 8.1 (Dual SIM),TA-1119,PNX,Phoenix,Parrot,,,,,,https://launchstudio.bluetooth.com/ListingDetails/66295,
-Nokia 3.1 Plus,TA-1118,ROO / ROON?,Rooster,,,,,,,,
+Nokia 3 (Dual SIM),TA-1032,NE1,Essential,,,,,,,,
+Nokia 3 (Dual SIM),TA-1038,NE1,Essential,,,,,,,,
+Nokia 3,TA-1020,NE1,Essential,,,,,,,,
+Nokia 3,TA-1028,NE1,Essential,,,,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=3&execution=e1s2&_eventId=showEquipmentDetails,,,
+Nokia 3,TA-1031,NE1,Essential,,,,,,,,
+Nokia 3.1 (Dual SIM),TA-1049,ES2 (ES2N?),Essential2,,,,,,,,
+Nokia 3.1 (Dual SIM),TA-1063,ES2 (ES2N?),Essential2,,,,,,,,
+Nokia 3.1 (Single SIM),TA-1057,ES2 (ES2N?),Essential2,,,,,,,,
+Nokia 3.1 (Single SIM),TA-1074,ES2 (ES2N?),Essential2,,,,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=6&execution=e1s2&_eventId=showEquipmentDetails,,,
 Nokia 3.1 Plus (CN),TA-1117,ROO / ROON?,Rooster,,,,,,,,
-Nokia 6.1 Plus (Nokia X6),TA-1116,DRG,Dragon,Totoro,,,,,,,
-Nokia 3.1 Plus,TA-1115,ROO / ROON?,Rooster,,,,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=11&execution=e1s2&_eventId=showEquipmentDetails,,,
-Nokia 106,TA-1114,,,,,,,,,,
-Nokia 3.1 Plus,TA-1113,ROO / ROON?,Rooster,,,,,,,,
-Nokia 5.1 Plus (Nokia X5),TA-1112,PDA / ND1?,Panda / Bravo?,,,,,,,,
-Nokia 1 plus EU - Single SIM - 8GB),TA-1111,ANT,Antman / Trochilus,,,https://fccid.io/2AJOTTA-1111,,,,,
-Nokia 5.1 Plus (Nokia X5) (Dual SIM),TA-1109,PDA / ND1?,Panda / Bravo?,,,,,,,,
-Nokia 5.1 Plus (Nokia X5),TA-1108,PDA / ND1?,Panda / Bravo?,,,,,,,,
-Nokia 5.1 Plus (Nokia X5),TA-1105,PDA / ND1?,Panda / Bravo?,,,,,,,,
+Nokia 3.1 Plus (Cricket),TA-1124,RHD,,,,,,,,,
 Nokia 3.1 Plus,TA-1104,ROO / ROON?,Rooster,,,,,,,,
-Nokia 6.1 Plus (Nokia X6),TA-1103,DRG,Dragon,Totoro,,,,,,,
+Nokia 3.1 Plus,TA-1113,ROO / ROON?,Rooster,,,,,,,,
+Nokia 3.1 Plus,TA-1115,ROO / ROON?,Rooster,,,,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=11&execution=e1s2&_eventId=showEquipmentDetails,,,
+Nokia 3.1 Plus,TA-1118,ROO / ROON?,Rooster,,,,,,,,
+Nokia 3.1 Plus,TA-1125,ROO / ROON?,Rooster,,,,,,,,
+Nokia 3.1,TA-1070,ES2 (ES2N?),Essential2,,,,,,,,
+Nokia 3.1A,TA-1140,EAG,Eagles,,,https://fccid.io/2AJOTTA1140,,,,https://launchstudio.bluetooth.com/ListingDetails/77585,
+Nokia 3.1C,TA-1141,EAG,Eagles,,,https://fccid.io/2AJOTTA1140,,,,,
+Nokia 3.2,TA-1154,DPL,Deadpool,,Wingtech? / TSMT? (India),,,,NPU,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82540
+Nokia 3.2,TA-1156,DPL,Deadpool,,Wingtech? / TSMT? (India),,,,NPU,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82296
+Nokia 3.2,TA-1159,DPL,Deadpool,,Wingtech? / TSMT? (India),https://fccid.io/2AJOTTA-1159,,,NPU,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82538
+Nokia 3.2,TA-1161,DPL,Deadpool,,Wingtech? / TSMT? (India),,,,NPU,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82541
+Nokia 3.2,TA-1164,DPL,Deadpool,,Wingtech? / TSMT? (India),,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82539
+Nokia 3310 (Dual SIM),TA-1030,,,,,,,,,,
+Nokia 3310 3G,TA-1006,,,,,,,,,,
+Nokia 3310 3G,TA-1022,,,,,,,,,,
+Nokia 3310 3G,TA-1036,,,,,,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=5&execution=e1s2&_eventId=showEquipmentDetails,,,
+Nokia 3310 4G,TA-1077,Z4G,Zunk4G,,,,,,,,
+Nokia 3310,TA-1008,,,,,,,,,,
+Nokia 3V?,TA-1153,,,,WingTech,https://fccid.io/2AJOTTA-1182,,,,https://launchstudio.bluetooth.com/ListingDetails/84915,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA83679
+Nokia 3V?,TA-1182,DPL_VZW,,,WingTech,https://fccid.io/2AJOTTA-1182,,,,https://launchstudio.bluetooth.com/ListingDetails/84915,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA83219
+Nokia 4.2,TA-1133,PAN,,,Wingtech? / TSMT? (India),,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=14&execution=e1s2&_eventId=showEquipmentDetails,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82276
+Nokia 4.2,TA-1149,PAN,,,Wingtech? / TSMT? (India),,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=16&execution=e1s2&_eventId=showEquipmentDetails,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82277
+Nokia 4.2,TA-1150,PAN,,,Wingtech? / TSMT? (India),https://fccid.io/2AJOTTA-1150,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82275
+Nokia 4.2,TA-1152,PAN,,,Wingtech? / TSMT? (India),,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82278
+Nokia 4.2,TA-1157,PAN,,,Wingtech? / TSMT? (India),https://fccid.io/2AJOTTA-1157,,,NPU,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA81864
+Nokia 400 4G? UniSoC+GAFP? (India),TA-1208,,,,,,,,,https://launchstudio.bluetooth.com/ListingDetails/90065,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA92200
+Nokia 5 (Dual SIM),TA-1044,ND1,Core / Heart?,,,,,,,,
+Nokia 5 (Dual SIM),TA-1053,ND1,Core / Heart?,,,,,,,,
+Nokia 5,TA-1024,ND1,Core / Heart?,,,,,,,,
+Nokia 5,TA-1027,ND1,Core / Heart?,,,,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=2&execution=e1s2&_eventId=showEquipmentDetails,,,
+Nokia 5.1 (Dual SIM),TA-1075,CO2 / CO2N,Core2,,,,,,,,
+Nokia 5.1 (Dual SIM),TA-1076,CO2 / CO2N,Core2,,,,,,,,
+Nokia 5.1 (Single SIM),TA-1061,CO2 / CO2N,Core2,,,,,,,,
+Nokia 5.1 (Single SIM),TA-1081,CO2 / CO2N,Core2,,,,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=8&execution=e1s2&_eventId=showEquipmentDetails,,,
+Nokia 5.1 Plus (Nokia X5) (Dual SIM),TA-1109,PDA / ND1?,Panda / Bravo?,,,,,,,,
 Nokia 5.1 Plus (Nokia X5),TA-1102,PDA / ND1?,Panda / Bravo?,,,,,,,,
-Nokia 7.1,TA-1100,CTL,Crystal,,,,,,,,
+Nokia 5.1 Plus (Nokia X5),TA-1105,PDA / ND1?,Panda / Bravo?,,,,,,,,
+Nokia 5.1 Plus (Nokia X5),TA-1108,PDA / ND1?,Panda / Bravo?,,,,,,,,
+Nokia 5.1 Plus (Nokia X5),TA-1112,PDA / ND1?,Panda / Bravo?,,,,,,,,
+Nokia 5.1 Plus (Nokia X5),TA-1120,PDA / ND1?,Panda / Bravo?,,,,,,,,
+Nokia 5.1,TA-1088,CO2 / CO2N,Core2,,,,,,,,
+Nokia 5.3 EEC?,TA-1234,,Captain America,,,,,https://launchstudio.bluetooth.com/ListingDetails/100323,https://fccid.io/EEC/RU0000045272,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA94272
+Nokia 5.3,TA-1223,,Captain America,,,,,,,https://launchstudio.bluetooth.com/ListingDetails/100323,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA96592
+Nokia 5.3,TA-1227,,Captain America,,,,,,,https://launchstudio.bluetooth.com/ListingDetails/100323,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA96596
+Nokia 5.3,TA-1229,,Captain America,,,,,,,https://launchstudio.bluetooth.com/ListingDetails/100323,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA96594
+Nokia 5310 EEC?,TA-1212,,,,,,http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=g61T3CysTlSvI%2bQgKH174QJzWtglPEAeL47s8za2vsnMStjKs4s7aA%3d%3d,,https://fccid.io/EEC/RU0000045271,,
+Nokia 5310,TA-1230,,,,,,,,,,
+Nokia 6 (Australia?),TA-1033,PLE,Plate,,,,,,,,
+Nokia 6 (China),TA-1000,D1C,Plate,,,,,,,,
+Nokia 6 (Dual SIM) (India?),TA-1021,PLE,Plate,,,,,,,,
+Nokia 6 (Dual SIM) (LTA?),TA-1025,PLE,Plate,,,,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=1&execution=e1s2&_eventId=showEquipmentDetails,,,
+Nokia 6 (Hong Kong, Macau, Taiwan),TA-1003,D1C,Plate,,,,,,,,
+Nokia 6,TA-1039,PLE,Plate,,,,,,,,
+Nokia 6.1 (Dual SIM),TA-1054,PL2,Plate2,,,,,,,,
+Nokia 6.1 Plus (Nokia X6),TA-1083,DRG,Dragon,Totoro,,,,,,,
 Nokia 6.1 Plus (Nokia X6),TA-1099,DRG,Dragon,Totoro,,,,,,,
+Nokia 6.1 Plus (Nokia X6),TA-1103,DRG,Dragon,Totoro,,,,,,,
+Nokia 6.1 Plus (Nokia X6),TA-1116,DRG,Dragon,Totoro,,,,,,,
+Nokia 6.1,TA-1016,PL2,Plate2,,,,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=0&execution=e1s2&_eventId=showEquipmentDetails,,,
+Nokia 6.1,TA-1043,PL2,Plate2,,,,,,,,
+Nokia 6.1,TA-1045,PL2,Plate2,,,,,,,,
+Nokia 6.1,TA-1050,PL2,Plate2,,,,,,,,
+Nokia 6.1,TA-1068,PL2,Plate2,,,,,,,,
+Nokia 6.2 EEC,TA-1198,SLD,Star-lord?,,,,,,https://fccid.io/EEC/RU0000043605,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90458
+Nokia 6.2 India,TA-1201,SLD,Star-lord?,,Longcheer?,,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90462
+Nokia 6.2,TA-1187,SLD,Star-lord?,,,https://fccid.io/2AJOTTA-1187,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90452
+Nokia 6.2,TA-1200,SLD,Star-lord?,,Longcheer?,,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90460
+Nokia 7 Plus (Dual SIM),TA-1046,B2N,Onyx,Bamboo,,,,,,,
+Nokia 7 Plus (Dual SIM),TA-1062,B2N,Onyx,Bamboo,,,,,,,
+Nokia 7 Plus,TA-1055,B2N,Onyx,Bamboo,,,,,,,
+Nokia 7,TA-1041,C1N,Charm,,,,,,,,
+Nokia 7.1 (Dual SIM),TA-1085,CTL,Crystal,,,,,,,,
 Nokia 7.1 (India),TA-1097,CTL,Crystal,,,,,,,,
 Nokia 7.1 (Single SIM),TA-1096,CTL,Crystal,,,,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=10&execution=e1s2&_eventId=showEquipmentDetails,,,
 Nokia 7.1,TA-1095,CTL,Crystal,,,,,,,,
-Nokia 9 PureView (CN - Dual SIM),TA-1094,AOP,Olympic / Beholder,,,https://fccid.io/2AJOTTA-1087,,,,,
-Nokia 2.1,TA-1093,E2M,Dynamo2,,,,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=9&execution=e1s2&_eventId=showEquipmentDetails,,,
-Nokia 2.1 (Dual SIM),TA-1092,E2M,Dynamo2,,,,,,,,
-Nokia 5.1,TA-1088,CO2 / CO2N,Core2,,,,,,,,
-Nokia 9 PureView (Dual SIM),TA-1087,AOP,Olympic / Beholder,,,https://fccid.io/2AJOTTA-1087,,,,,
-Nokia 2.1,TA-1086,E2M,Dynamo2,,,,,,,,
-Nokia 7.1 (Dual SIM),TA-1085,CTL,Crystal,,,,,,,,
-Nokia 2.1 (Dual SIM),TA-1084,E2M,Dynamo2,,,,,,,,
-Nokia 6.1 Plus (Nokia X6),TA-1083,DRG,Dragon,Totoro,,,,,,,
-Nokia 9 PureView (Single SIM),TA-1082,AOP,Olympic / Beholder,,,https://fccid.io/2AJOTTA-1082,,,,,
-Nokia 5.1 (Single SIM),TA-1081,CO2 / CO2N,Core2,,,,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=8&execution=e1s2&_eventId=showEquipmentDetails,,,
-Nokia 2.1 (Dual SIM),TA-1080,E2M,Dynamo2,,,,,,,,
-Nokia 1 (Single SIM),TA-1079,FRT,Frontier,,,,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=7&execution=e1s2&_eventId=showEquipmentDetails,,,
-Nokia 3310 4G,TA-1077,Z4G,Zunk4G,,,,,,,,
-Nokia 5.1 (Dual SIM),TA-1076,CO2 / CO2N,Core2,,,,,,,,
-Nokia 5.1 (Dual SIM),TA-1075,CO2 / CO2N,Core2,,,,,,,,
-Nokia 3.1 (Single SIM),TA-1074,ES2 (ES2N?),Essential2,,,,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=6&execution=e1s2&_eventId=showEquipmentDetails,,,
-Nokia 8110 4G,TA-1071,ARG,,,,,,,,,
-Nokia 3.1,TA-1070,ES2 (ES2N?),Essential2,,,,,,,,
-Nokia 6.1,TA-1068,PL2,Plate2,,,,,,,,
-Nokia 8110 4G,TA-1067,ARG,,,,,,,,,
-Nokia 1 (Dual SIM),TA-1066,FRT,Frontier,,,,,,,,
-Nokia 3.1 (Dual SIM),TA-1063,ES2 (ES2N?),Essential2,,,,,,,,
-Nokia 7 Plus (Dual SIM),TA-1062,B2N,Onyx,Bamboo,,,,,,,
-Nokia 5.1 (Single SIM),TA-1061,CO2 / CO2N,Core2,,,,,,,,
-Nokia 1 (Single SIM),TA-1060,FRT,Frontier,,,,,,,,
-Nokia 8110 4G (Dual SIM),TA-1059,ARG,,,,,,,,,
-Nokia 3.1 (Single SIM),TA-1057,ES2 (ES2N?),Essential2,,,,,,,,
-Nokia 1 (Dual SIM),TA-1056,FRT,Frontier,,,,,,,,
-Nokia 7 Plus,TA-1055,B2N,Onyx,Bamboo,,,,,,,
-Nokia 6.1 (Dual SIM),TA-1054,PL2,Plate2,,,,,,,,
-Nokia 5 (Dual SIM),TA-1053,ND1,Core / Heart?,,,,,,,,
+Nokia 7.1,TA-1100,CTL,Crystal,,,,,,,,
+Nokia 7.2 Dual-SIM,TA-1196,DDV,Daredevil,,Longcheer?,https://fccid.io/2AJOTTA-1196,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90456
+Nokia 7.2 India,TA-1193,DDV,Daredevil,,Longcheer / DBG Technology India,,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90454
+Nokia 7.2 Single-SIM,TA-1178,DDV,Daredevil,,Longcheer?,https://fccid.io/2AJOTTA-1178,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90187
+Nokia 7.2,TA-1181,DDV,Daredevil,,Longcheer,https://fccid.io/2AJOTTA-1181,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90450
 Nokia 8 (China),TA-1052,NB1,Bang,,,,,,,,
-Nokia 6.1,TA-1050,PL2,Plate2,,,,,,,,
-Nokia 3.1 (Dual SIM),TA-1049,ES2 (ES2N?),Essential2,,,,,,,,
-Nokia 8110 4G (Dual SIM),TA-1048,ARG,,,,,,,,,
-Nokia 1 (Dual SIM),TA-1047,FRT,Frontier,,,,,,,,
-Nokia 7 Plus (Dual SIM),TA-1046,B2N,Onyx,Bamboo,,,,,,,
-Nokia 6.1,TA-1045,PL2,Plate2,,,,,,,,
-Nokia 5 (Dual SIM),TA-1044,ND1,Core / Heart?,,,,,,,,
-Nokia 6.1,TA-1043,PL2,Plate2,,,,,,,,
-Nokia 8 Sirocco,TA-1042,A1N,Avenger / Avatar?,,,,,,,,
-Nokia 7,TA-1041,C1N,Charm,,,,,,,,
-Nokia ?,TA-1040,,,,,,,,,,
-Nokia 6,TA-1039,PLE,Plate,,,,,,,,
-Nokia 3 (Dual SIM),TA-1038,NE1,Essential,,,,,,,,
-Nokia 105,TA-1037,,,,,,,,,,
-Nokia 3310 3G,TA-1036,,,,,,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=5&execution=e1s2&_eventId=showEquipmentDetails,,,
-Nokia 130,TA-1035,,,,,,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=4&execution=e1s2&_eventId=showEquipmentDetails,,,
-Nokia 105 (Dual SIM),TA-1034,,,,,,,,,,
-Nokia 6 (Australia?),TA-1033,PLE,Plate,,,,,,,,
-Nokia 3 (Dual SIM),TA-1032,NE1,Essential,,,,,,,,
-Nokia 3,TA-1031,NE1,Essential,,,,,,,,
-Nokia 3310 (Dual SIM),TA-1030,,,,,,,,,,
-Nokia 2 (Dual SIM),TA-1029,E1M,Dynamo,,,,,,,,
-Nokia 3,TA-1028,NE1,Essential,,,,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=3&execution=e1s2&_eventId=showEquipmentDetails,,,
-Nokia 5,TA-1027,ND1,Core / Heart?,,,,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=2&execution=e1s2&_eventId=showEquipmentDetails,,,
-Nokia 6 (Dual SIM) (LTA?),TA-1025,PLE,Plate,,,,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=1&execution=e1s2&_eventId=showEquipmentDetails,,,
-Nokia 5,TA-1024,ND1,Core / Heart?,,,,,,,,
-Nokia 2,TA-1023,E1M,Dynamo,,,,,,,,
-Nokia 3310 3G,TA-1022,,,,,,,,,,
-Nokia 6 (Dual SIM) (India?),TA-1021,PLE,Plate,,,,,,,,
-Nokia 3,TA-1020,NE1,Essential,,,,,,,,
-Nokia 130,TA-1019,,,,,,,,,,
-Nokia 130 (Dual SIM),TA-1017,,,,,,,,,,
-Nokia 6.1,TA-1016,PL2,Plate2,,,,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=0&execution=e1s2&_eventId=showEquipmentDetails,,,
-Nokia ?,TA-1013,,,,,,,,,,
-Nokia 8 (Single SIM),TA-1012,NB1,Bang,,,,,,,,
-Nokia 2 (Dual SIM),TA-1011,E1M,Dynamo,,,,,,,,
-Nokia 105,TA-1010,,,,,,,,,,
-Nokia 3310,TA-1008,,,,,,,,,,
-Nokia 2,TA-1007,E1M,Dynamo,,,,,,,,
-Nokia 3310 3G,TA-1006,,,,,,,,,,
-Nokia 8 Sirocco,TA-1005,A1N,Avenger / Avatar?,,,,,,,,
 Nokia 8 (Dual SIM),TA-1004,NB1,Bang,,,,,,,,
-"Nokia 6 (Hong Kong, Macau, Taiwan)",TA-1003,D1C,Plate,,,,,,,,
-Nokia 6 (China),TA-1000,D1C,Plate,,,,,,,,
+Nokia 8 (Single SIM),TA-1012,NB1,Bang,,,,,,,,
+Nokia 8 Sirocco,TA-1005,A1N,Avenger / Avatar?,,,,,,,,
+Nokia 8 Sirocco,TA-1042,A1N,Avenger / Avatar?,,,,,,,,
+Nokia 8.1 (Dual SIM) (India?),TA-1121,PNX,Phoenix,Parrot,,,,,,https://launchstudio.bluetooth.com/ListingDetails/66295,
+Nokia 8.1 (Dual SIM),TA-1119,PNX,Phoenix,Parrot,,,,,,https://launchstudio.bluetooth.com/ListingDetails/66295,
+Nokia 8.1 (Dual SIM),TA-1128,PNX,Phoenix,Parrot,,,,,,,
+Nokia 800 Tough China,TA-1189,,Coconut?,,,,http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=g61T3CysTlSvI%2bQgKH174YVCzmADFTgX2N90jE1lG%2f87jD9Kx%2fn5Ig%3d%3d,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91192
+Nokia 800 Tough EEC,TA-1186,,Coconut?,,,,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91342
+Nokia 800 Tough,TA-1176,,Coconut?,,,,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91340
+Nokia 800 Tough,TA-1180,,Coconut?,,,,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91341
+Nokia 8110 4G (Dual SIM),TA-1048,ARG,,,,,,,,,
+Nokia 8110 4G (Dual SIM),TA-1059,ARG,,,,,,,,,
+Nokia 8110 4G,TA-1067,ARG,,,,,,,,,
+Nokia 8110 4G,TA-1071,ARG,,,,,,,,,
+Nokia 9 PureView (CN - Dual SIM),TA-1094,AOP,Olympic / Beholder,,,https://fccid.io/2AJOTTA-1087,,,,,
+Nokia 9 PureView (Dual SIM),TA-1087,AOP,Olympic / Beholder,,,https://fccid.io/2AJOTTA-1087,,,,,
+Nokia 9 PureView (Single SIM),TA-1082,AOP,Olympic / Beholder,,,https://fccid.io/2AJOTTA-1082,,,,,
+Nokia ? (4G feature phone?) China?,TA-1177,,,,,,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90125
+Nokia ?,,,,,,,,,,https://launchstudio.bluetooth.com/ListingDetails/101622,
+Nokia ?,,DVW,,,,,,,,,
+Nokia ?,,ML2,,,,,,,,,
+Nokia ?,TA-1013,,,,,,,,,,
+Nokia ?,TA-1040,,,,,,,,,,
+Nokia ?,TA-x,LMS,,,,,,,,,
+Nokia C1 (UniSoc),TA-1165,RKU,Rocket,,,,,,,https://launchstudio.bluetooth.com/ListingDetails/98399,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA92338
+Nokia C2,TA-1204,,,,,,,,,https://launchstudio.bluetooth.com/ListingDetails/100719,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA94069
+Nokia C2,TA-1233,NBL,Nebula,,,,,,,https://launchstudio.bluetooth.com/ListingDetails/100719,
+Nokia China?,TA-1132,,,,,,,,,,
+Nokia China?,TA-1146,,,,,,,,,,
+Nokia Original?,TA-1213,,,,,,,,,https://launchstudio.bluetooth.com/ListingDetails/96078,
+Nokia X7,TA-1131,PNX,Phoenix,Parrot,,,,,,https://launchstudio.bluetooth.com/ListingDetails/66295,
+Nokia X71 (China),TA-1172,TAS,Taisun / Taishan,,,,,,,https://launchstudio.bluetooth.com/ListingDetails/80884,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82562
+Nokia X71 (Taiwan),TA-1167,TAS,Taisun / Taishan,,,,,,,https://launchstudio.bluetooth.com/ListingDetails/80884,
+Nokia feature phone EEC/India?,TA-1203,,,,,,https://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=g61T3CysTlSvI%2bQgKH174VAGOM5bycQDpHtyVeLhhWHVEB7Qkijl5A%3d%3d,,,,
+Nokia feature phone LATAM - looks like TA-1192,TA-1190,,Nemo?,,,https://fccid.io/2AJOTTA-1190,,,,,
