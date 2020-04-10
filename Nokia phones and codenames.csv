@@ -41,7 +41,7 @@ Nokia 2.2 India,TA-1183,WAS / WSP,Wasp,,Huaqin / Rising Stars (Foxconn),https://
 Nokia 3V?,TA-1182,DPL_VZW,,,WingTech,https://fccid.io/2AJOTTA-1182,,,,https://launchstudio.bluetooth.com/ListingDetails/84915,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA83219
 Nokia 7.2,TA-1181,DDV,Daredevil,,Longcheer,https://fccid.io/2AJOTTA-1181,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90450
 Nokia 800 Tough,TA-1180,,Coconut?,,,,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91341
-Nokia 2.2 single-SIM,TA-1179 ,WAS / WSP,Wasp,,Huaqin,https://fccid.io/2AJOTTA-1179,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?execution=e1s3&index=17,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA89691
+Nokia 2.2 single-SIM,TA-1179,WAS / WSP,Wasp,,Huaqin,https://fccid.io/2AJOTTA-1179,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?execution=e1s3&index=17,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA89691
 Nokia 7.2 Single-SIM,TA-1178,DDV,Daredevil,,Longcheer?,https://fccid.io/2AJOTTA-1178,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90187
 Nokia ? (4G feature phone?) China?,TA-1177,,,,,,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA90125
 Nokia 800 Tough,TA-1176,,Coconut?,,,,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA91340
@@ -57,21 +57,21 @@ Nokia C1 (UniSoc),TA-1165,RKU,Rocket,,,,,,,https://launchstudio.bluetooth.com/Li
 Nokia 3.2,TA-1164,DPL,Deadpool,,Wingtech? / TSMT? (India),,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82539
 Nokia 3.2,TA-1161,DPL,Deadpool,,Wingtech? / TSMT? (India),,,,NPU,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82541
 Nokia 3.2,TA-1159,DPL,Deadpool,,Wingtech? / TSMT? (India),https://fccid.io/2AJOTTA-1159,,,NPU,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82538
-Nokia 4.2,TA-1157,PAN,,,Wingtech? / TSMT? (India),https://fccid.io/2AJOTTA-1157,,,NPU,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA81864
+Nokia 4.2,TA-1157,PAN,Panther,,Wingtech? / TSMT? (India),https://fccid.io/2AJOTTA-1157,,,NPU,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA81864
 Nokia 3.2,TA-1156,DPL,Deadpool,,Wingtech? / TSMT? (India),,,,NPU,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82296
 Nokia 220 4G (US),TA-1155,,,,,https://fccid.io/2AJOTTA-1155,,,,,
 Nokia 3.2,TA-1154,DPL,Deadpool,,Wingtech? / TSMT? (India),,,,NPU,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82540
 Nokia 3V?,TA-1153,,,,WingTech,https://fccid.io/2AJOTTA-1182,,,,https://launchstudio.bluetooth.com/ListingDetails/84915,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA83679
-Nokia 4.2,TA-1152,PAN,,,Wingtech? / TSMT? (India),,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82278
-Nokia 4.2,TA-1150,PAN,,,Wingtech? / TSMT? (India),https://fccid.io/2AJOTTA-1150,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82275
-Nokia 4.2,TA-1149,PAN,,,Wingtech? / TSMT? (India),,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=16&execution=e1s2&_eventId=showEquipmentDetails,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82277
+Nokia 4.2,TA-1152,PAN,Panther,,Wingtech? / TSMT? (India),,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82278
+Nokia 4.2,TA-1150,PAN,Panther,,Wingtech? / TSMT? (India),https://fccid.io/2AJOTTA-1150,,,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82275
+Nokia 4.2,TA-1149,PAN,Panther,,Wingtech? / TSMT? (India),,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=16&execution=e1s2&_eventId=showEquipmentDetails,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82277
 Nokia 220 4G,TA-1148,,,,,,,,,,
 Nokia China?,TA-1146,,,,,,,,,,
 Nokia 3.1C,TA-1141,EAG,Eagles,,,https://fccid.io/2AJOTTA1140,,,,,
 Nokia 3.1A,TA-1140,EAG,Eagles,,,https://fccid.io/2AJOTTA1140,,,,https://launchstudio.bluetooth.com/ListingDetails/77585,
 Nokia 210,TA-1139,,,,,,http://www.tenaa.com.cn/WSFW/LicenceShow.aspx?code=bEvDcyxjmgSZJFNZfyf%2bLIcCBjNDQiBUEwjhYq77%2bDqyWxVlq9y7YLD5PlaHZaQK,,NPU,,
 Nokia 2V,TA-1136,EVW,,,,https://fccid.io/2AJOTTA-1136,,,,https://launchstudio.bluetooth.com/ListingDetails/71526,
-Nokia 4.2,TA-1133,PAN,,,Wingtech? / TSMT? (India),,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=14&execution=e1s2&_eventId=showEquipmentDetails,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82276
+Nokia 4.2,TA-1133,PAN,Panther,,Wingtech? / TSMT? (India),,,https://sms-sgs.ic.gc.ca/equipmentSearch/searchRadioEquipments?index=14&execution=e1s2&_eventId=showEquipmentDetails,,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA82276
 Nokia China?,TA-1132,,,,,,,,,,
 Nokia X7,TA-1131,PNX,Phoenix,Parrot,,,,,,https://launchstudio.bluetooth.com/ListingDetails/66295,
 Nokia 1 plus (EU - Dual SIM - 8GB),TA-1130,ANT,Antman / Trochilus,,,https://fccid.io/2AJOTTA-1123,,,NPU,,
