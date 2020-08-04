@@ -1,16 +1,17 @@
 Name,Number,Code TLA,Codename,Pre-release codename,Manufacturer,FCC,TENAA,Canada,EEC,Bluetooth,Wifi,Other
 Nokia ?,TA-x,LMS,,,,,,,,,,
 Nokia ?,TA-x,,Wolverine,,,,,,,,,
+Nokia 3.4?,TA-?,,Dr Strange,,,,,,,,,
 Nokia 2V Tella,TA-?,,,,,,,,,,,
 Nokia ? (LATAM) Single-SIM,TA-1277,,,,,https://fccid.io/2AJOTTA-1277,,,,,,
 Nokia ? (Global) Single-SIM,TA-1275,,,,,https://fccid.io/2AJOTTA-1275,,,,,,
 Nokia ? (LATAM) Dual-SIM,TA-1274,,,,,https://fccid.io/2AJOTTA-1274,,,,,,
 Nokia ? (Global) Dual-SIM,TA-1270,,,,,https://fccid.io/2AJOTTA-1270,,,,,,
 Nokia C2 (Brazil),TA-1263,,,,,,,,,,,https://sistemas.anatel.gov.br/mosaico/sch/publicView/listarProdutosHomologados.xhtml#
-Nokia ?,TA-1258,,,,,,http://www.tenaa.com.cn/WSFW/LicenceShow.aspx?code=yzJz%2fpyvWJZ88BCp1JLOqgdsC%2bZVzXSaPzBUlJtquQXocETzQkBzxuYN%2f1pITorc,,,,,
+Nokia C3 (China only?),TA-1258,,Gamora Plus,,,,http://www.tenaa.com.cn/WSFW/LicenceShow.aspx?code=yzJz%2fpyvWJZ88BCp1JLOqgdsC%2bZVzXSaPzBUlJtquQXocETzQkBzxuYN%2f1pITorc,,,,,
 Nokia 125,TA-1253,,,,,,http://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=g61T3CysTlSvI%2bQgKH174eQJQxaNnhNQpWy8hg5qfLTfwwIR%2bvkCmg%3d%3d,,,,,
 Nokia 150 China?,TA-1246,,,,,,https://shouji.tenaa.com.cn/Mobile/MobileDetail.aspx?code=g61T3CysTlSvI%2bQgKH174RAszfPhFIi7,,,,,
-Nokia ?,TA-1243,,,,,,,,,,,https://nokiapoweruser.com/nokia-8-3-5g-ta-1243-nokia-2-4-ta-1270-appear-in-russian-certification-now/
+Nokia ? EEC,TA-1243,,,,,,,,,,,https://nokiapoweruser.com/nokia-8-3-5g-ta-1243-nokia-2-4-ta-1270-appear-in-russian-certification-now/
 Nokia 150 2019? (China),TA-1242,,,,,,http://shouji.tenaa.com.cn/mobile/MobileDetail.aspx?code=g61T3CysTlSvI%2bQgKH174UOKZ1jaN6%2f3,,,,,
 Nokia 150,TA-1235,,,,,,,,,,,
 Nokia 5.3 EEC? Dual-SIM?,TA-1234,CAP,Captain America,,,https://fccid.io/2AJOTTA-1229,,https://launchstudio.bluetooth.com/ListingDetails/100323,https://fccid.io/EEC/RU0000045272,,http://certifications.prod.wi-fi.org/pdf/certificate/public/download?cid=WFA94272,
